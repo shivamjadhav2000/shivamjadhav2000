@@ -62,9 +62,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam0228&show_icons=true&theme=radical)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamjadhav2000show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam0228&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamjadhav2000&layout=compact&theme=radical)
 
 ---
 
