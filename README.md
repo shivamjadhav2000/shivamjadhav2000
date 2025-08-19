@@ -37,8 +37,13 @@
 ---
 
 ## 💼 Experience
+### 🔹 Software Development Engineer | ISN Software Corporation *(June 2025 – present)*
+- Built modular web applications and reusable UI components using React and .NET Core.
+- Developed APIs and microservices hosted in Azure SQL Server and Spring Boot.
+- Improved SQL query performance in Notification Framework, boosting efficiency for 85K+ contractors and 850 clients.
+- Designed and implemented a real-time Health Check system for TechOps, ensuring high service availability.
 
-### 🔹 Software Engineer | University of North Texas *(Sep 2023 – Present)*
+### 🔹 Software Engineer | University of North Texas *(Sep 2023 – May 2025)*
 - Built a Universal Digital Signage Solution, reducing costs by $40,000.
 - Engineered a Raspberry Pi cluster for automated digital signage and IoT integration.
 - Developed a status-checking application for monitoring server uptime with real-time alerts.
